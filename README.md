@@ -9,6 +9,7 @@
 
 📱 Dart (Used in 2022 for easy mobile app development.)
 
+
 - Python Technologies/Frameworks I Use:
   
 Ollama ➡️ (Large language model used to create AI models that can understand and generate human language.)

@@ -1,8 +1,11 @@
 ## Hi there 👋
 - Languages I Use:
 🐍 Python (My first language! Used primarily for backend development.)
+
 🌐 HTML & CSS (Used for frontend projects and creating responsive web pages.)
+
 ⚡ Mojo (Currently learning. Mainly used for AI projects and optimizing speed.)
+
 📱 Dart (Used in 2022 for easy mobile app development.)
 
 - Python Technologies/Frameworks I Use: 

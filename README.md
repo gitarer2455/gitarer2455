@@ -1,6 +1,6 @@
 ## Hi there 👋
 - Languages I Use:
-- 
+ 
 🐍 Python (My first language! Used primarily for backend development.)
 
 🌐 HTML & CSS (Used for frontend projects and creating responsive web pages.)
@@ -10,7 +10,7 @@
 📱 Dart (Used in 2022 for easy mobile app development.)
 
 - Python Technologies/Frameworks I Use:
-- 
+  
 Ollama ➡️ (Large language model used to create AI models that can understand and generate human language.)
 
 OpenCV ➡️ (Used for computer vision projects and automation tasks.)

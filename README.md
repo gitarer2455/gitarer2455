@@ -11,6 +11,8 @@
 
 📱 Dart (Used to code by it in 2022 that's easy  for easy mobile app development.)
 
+☁ MySQl (used as Database )
+
 
 
 - Python Technologies/Frameworks I Use:

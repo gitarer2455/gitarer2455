@@ -7,7 +7,7 @@
 
 ⚡ Mojo (Currently learning. Mainly used for AI projects and optimizing speed.)
 
-📱 Dart (Used in 2022 for easy mobile app development.)
+📱 Dart (Used to code by it in 2022 that's easy  for easy mobile app development.)
 
 
 

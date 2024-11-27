@@ -3,6 +3,8 @@
  
 🐍 Python (My first language! Used primarily for backend development.)
 
+🎨Javascript(sometimes used for frontened part of web application)
+
 🌐 HTML & CSS (Used for frontend projects and creating responsive web pages.)
 
 ⚡ Mojo (Currently learning. Mainly used for AI projects and optimizing speed.)

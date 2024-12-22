@@ -1,5 +1,6 @@
 ## Hi there 👋
 - Languages I Use:
+- full stack developer
  
 🐍 Python (My first language! Used primarily for backend development.)
 
